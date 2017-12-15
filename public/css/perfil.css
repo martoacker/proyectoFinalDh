@@ -1,0 +1,15 @@
+.img_perfil {
+  border: 2px dashed blue;
+  width: 250px;
+}
+
+.div-img{
+  max-height: 165px;
+  width: 100%;
+}
+
+.centrado{
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 15px 30px 3px rgba(0,0,0,0.8);
+}

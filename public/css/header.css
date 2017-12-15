@@ -1,0 +1,31 @@
+img.logo {
+  width: 30px;
+}
+
+.willy {
+  position: relative;
+  left: 40px;
+  bottom: 30px;
+}
+
+
+.navbar-default{
+  /*background-color: white;*/
+
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 5px;
+}
+
+nav ul li a {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  color: #fc001d;
+}
+
+nav ul li a:hover {
+  color: black;
+}

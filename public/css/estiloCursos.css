@@ -1,0 +1,51 @@
+.cursos h2 {
+  font-size: 20px;
+
+}
+.cursos #titulo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.cursos {
+  background-color:white;
+  padding: 20px;
+  border: 0.2px solid grey;
+  box-shadow: 0px 4px 6px -3px rgba(0,0,0,0.8);
+}
+button a {
+  text-decoration: none;
+  color: white;
+}
+
+button a:hover {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+
+.carrousel{
+  width: 100%;
+}
+
+
+.pagination li{
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 2px;
+  margin-right: 12px;
+}
+
+.pagination a {
+  text-decoration: none;
+}
+
+.img_perfil {
+  border: 1px solid black;
+  width: 100px;
+}
+
+.img_curso {
+  border: 2px solid black;
+  width: 200px;
+}

@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+.contenedor_preguntas{
+  overflow: hidden;
+  width: 100%;
+}
+
+.preguntas{
+  float: left;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.50);
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.preguntas h1{
+  text-align: left;
+  padding: 1% 2%;
+  text-decoration: underline;
+}
+
+.preguntas p{
+  padding: 1% 2%;
+}
+
+#titulo1{
+  padding: 10%;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 1%;
+  display: block;
+}

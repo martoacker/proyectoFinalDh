@@ -1,0 +1,136 @@
+body {
+  background-image: url(../img/back_registro.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.panel-heading {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.control-label {
+  font-family: "Roboto", sans-serif;
+}
+.form-control:focus {
+  background-color: #ddeaff;
+}
+/*.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}*/
+
+
+/*
+.form {
+  width: 80%;
+  margin: 45px auto;
+  background-color: white;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.24), 0 0 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+form h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+form input {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f2f2;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 7px;
+}
+
+form input.error {
+  border-bottom: solid #f73131 3px;
+}
+
+form p.debajo {
+  font-size: 14px;
+  color: #f73131;
+  text-align: left;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  font-family: serif ;
+}
+
+form button {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #58AEE9;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+}
+
+form input #btn {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #58AEE9;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+}
+
+.form button:hover,.form button:active,.form button:focus {
+  background: #006DBF;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #636066;
+  font-size: 13px;
+}
+.form p.message a {
+  color: #1c94e0;
+  text-decoration: none;
+}
+.form p.message a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width:650px)  {
+  .form {
+    width: 60%;
+  }
+}
+@media (min-width:801px)  {
+  .form {
+    width: 60%;
+  }
+}
+@media (min-width:1001px)  {
+  .form {
+    width: 40%;
+  }
+}
+@media (min-width:1250px)  {
+  .form {
+    width: 35%;
+  }
+}*/
